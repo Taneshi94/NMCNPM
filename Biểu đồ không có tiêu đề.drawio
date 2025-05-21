@@ -69,7 +69,7 @@
         <mxCell id="QrGvr3LlAkq4sx4mLev--13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="RE8hw0GTR6m2Dy88vsNo-16" source="RE8hw0GTR6m2Dy88vsNo-24" target="RE8hw0GTR6m2Dy88vsNo-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RE8hw0GTR6m2Dy88vsNo-24" value="Danh sách báo cáo" style="rounded=1;whiteSpace=wrap;html=1;" parent="RE8hw0GTR6m2Dy88vsNo-16" vertex="1">
+        <mxCell id="RE8hw0GTR6m2Dy88vsNo-24" value="Danh sách báo cáo" style="rounded=0;whiteSpace=wrap;html=1;" parent="RE8hw0GTR6m2Dy88vsNo-16" vertex="1">
           <mxGeometry x="382" y="28" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QrGvr3LlAkq4sx4mLev--16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="RE8hw0GTR6m2Dy88vsNo-16" source="RE8hw0GTR6m2Dy88vsNo-22" target="QrGvr3LlAkq4sx4mLev--15">
@@ -107,13 +107,13 @@
         <mxCell id="QrGvr3LlAkq4sx4mLev--10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="RE8hw0GTR6m2Dy88vsNo-16" source="RE8hw0GTR6m2Dy88vsNo-47" target="RE8hw0GTR6m2Dy88vsNo-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RE8hw0GTR6m2Dy88vsNo-47" value="Danh sách xuất nhập kho" style="rounded=1;whiteSpace=wrap;html=1;" parent="RE8hw0GTR6m2Dy88vsNo-16" vertex="1">
+        <mxCell id="RE8hw0GTR6m2Dy88vsNo-47" value="Danh sách xuất nhập kho" style="rounded=0;whiteSpace=wrap;html=1;" parent="RE8hw0GTR6m2Dy88vsNo-16" vertex="1">
           <mxGeometry x="265.37" y="18" width="95.63" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QrGvr3LlAkq4sx4mLev--4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="RE8hw0GTR6m2Dy88vsNo-16" source="RE8hw0GTR6m2Dy88vsNo-54" target="RE8hw0GTR6m2Dy88vsNo-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RE8hw0GTR6m2Dy88vsNo-54" value="Danh sách tồn kho" style="rounded=1;whiteSpace=wrap;html=1;" parent="RE8hw0GTR6m2Dy88vsNo-16" vertex="1">
+        <mxCell id="RE8hw0GTR6m2Dy88vsNo-54" value="Danh sách tồn kho" style="rounded=0;whiteSpace=wrap;html=1;" parent="RE8hw0GTR6m2Dy88vsNo-16" vertex="1">
           <mxGeometry x="272.18" y="122.5" width="80" height="47" as="geometry" />
         </mxCell>
         <mxCell id="QrGvr3LlAkq4sx4mLev--15" value="In" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="RE8hw0GTR6m2Dy88vsNo-16">
