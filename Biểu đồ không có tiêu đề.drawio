@@ -41,9 +41,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="QrGvr3LlAkq4sx4mLev--9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="RE8hw0GTR6m2Dy88vsNo-16" source="RE8hw0GTR6m2Dy88vsNo-6" target="RE8hw0GTR6m2Dy88vsNo-46">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="RE8hw0GTR6m2Dy88vsNo-6" value="Đăng nhập" style="rounded=1;whiteSpace=wrap;html=1;" parent="RE8hw0GTR6m2Dy88vsNo-16" vertex="1">
           <mxGeometry x="20.5" y="23" width="80" height="30" as="geometry" />
         </mxCell>
@@ -97,12 +94,6 @@
         </mxCell>
         <mxCell id="RE8hw0GTR6m2Dy88vsNo-38" value="Theo dõi hàng hoá" style="rounded=1;whiteSpace=wrap;html=1;" parent="RE8hw0GTR6m2Dy88vsNo-16" vertex="1">
           <mxGeometry x="257.18" y="189" width="110" height="31" as="geometry" />
-        </mxCell>
-        <mxCell id="QrGvr3LlAkq4sx4mLev--11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="RE8hw0GTR6m2Dy88vsNo-16" source="RE8hw0GTR6m2Dy88vsNo-46" target="RE8hw0GTR6m2Dy88vsNo-47">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="RE8hw0GTR6m2Dy88vsNo-46" value="Kiểm kê hàng hoá" style="rounded=1;whiteSpace=wrap;html=1;" parent="RE8hw0GTR6m2Dy88vsNo-16" vertex="1">
-          <mxGeometry x="130" y="23" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QrGvr3LlAkq4sx4mLev--10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="RE8hw0GTR6m2Dy88vsNo-16" source="RE8hw0GTR6m2Dy88vsNo-47" target="RE8hw0GTR6m2Dy88vsNo-20">
           <mxGeometry relative="1" as="geometry" />
